@@ -1,0 +1,16 @@
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\bin\Debug\SubtitleWindowsApplication.exe.config
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\bin\Debug\SubtitleWindowsApplication.exe
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\bin\Debug\SubtitleWindowsApplication.pdb
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\obj\Debug\SubtitleWindowsApplication.Properties.Resources.resources
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\obj\Debug\SubtitleWindowsApplication.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\obj\Debug\SubtitleWindowsApplication.exe
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\obj\Debug\SubtitleWindowsApplication.pdb
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\obj\Debug\SubtitleWindowsApplication.AppWindow.resources
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\bin\Debug\SubtitleWindowsApplication.exe.manifest
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\bin\Debug\SubtitleWindowsApplication.application
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\obj\Debug\SubtitleWindowsApplication.exe.manifest
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\obj\Debug\SubtitleWindowsApplication.application
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication\SubtitleWindowsApplication\obj\Debug\SubtitleWindowsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication_Ver2.0\SubtitleWindowsApplication\SubtitleWindowsApplication\bin\Debug\SubtitleWindowsApplication.exe.config
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication_Ver2.0\SubtitleWindowsApplication\SubtitleWindowsApplication\obj\Debug\SubtitleWindowsApplication.exe
+C:\Users\Aaron\Desktop\2016\CSTest\SubtitleWindowsApplication_Ver2.0\SubtitleWindowsApplication\SubtitleWindowsApplication\obj\Debug\SubtitleWindowsApplication.pdb
